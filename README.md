@@ -22,3 +22,5 @@ setting.json
     "win": 7              # btn to open start menu
 }
 ```
+
+To use screen keyboard, pls run as admin
