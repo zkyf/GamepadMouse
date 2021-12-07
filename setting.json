@@ -1,0 +1,16 @@
+{
+    "mouse_x_axis": 0,
+    "mouse_y_axis": 1,
+    "scroll_x_axis": 2,
+    "scroll_y_axis": 3,
+
+    "move_speed": 2.0,
+    "scroll_speed": 2.0,
+
+    "left_key": 0,
+    "right_key": 1,
+    "screen_keyboard": 2,
+    "esc": 3,
+    "win_tab": 6,
+    "win": 7
+}
